@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 19c2d963f8ac6e042aeb6bab1758d590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7739821971883129767
+    second: animationsheetlowres_0
+  - first:
+      213: 2660277840363352317
+    second: animationsheetlowres_1
+  - first:
+      213: 4305398422225773125
+    second: animationsheetlowres_2
+  - first:
+      213: -3814815372825190227
+    second: animationsheetlowres_3
+  - first:
+      213: 1863093529639973802
+    second: animationsheetlowres_4
+  - first:
+      213: 1485800289515861345
+    second: animationsheetlowres_5
+  - first:
+      213: 1975648961100302122
+    second: animationsheetlowres_6
+  - first:
+      213: -4752829930337485774
+    second: animationsheetlowres_7
+  - first:
+      213: -3286474735743125864
+    second: animationsheetlowres_8
+  - first:
+      213: 3472889909645945232
+    second: animationsheetlowres_9
+  - first:
+      213: 5791394614526105718
+    second: animationsheetlowres_10
+  - first:
+      213: 4665418803530954419
+    second: animationsheetlowres_11
+  - first:
+      213: 8894015303556150812
+    second: animationsheetlowres_12
+  - first:
+      213: 4062250966898696078
+    second: animationsheetlowres_13
+  - first:
+      213: 6560085614801277778
+    second: animationsheetlowres_14
+  - first:
+      213: 9219110724531231521
+    second: animationsheetlowres_15
+  - first:
+      213: 1971541568406224904
+    second: animationsheetlowres_16
+  - first:
+      213: -4579613962574336729
+    second: animationsheetlowres_17
+  - first:
+      213: -1873387525772320527
+    second: animationsheetlowres_18
+  - first:
+      213: -242831400305282601
+    second: animationsheetlowres_19
+  - first:
+      213: 5520774136359276205
+    second: animationsheetlowres_20
+  - first:
+      213: -2644347946846301929
+    second: animationsheetlowres_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animationsheetlowres_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 250
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95484258ce0a69490800000000000000
+      internalID: -7739821971883129767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1025
+        width: 250
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df073bed9943be420800000000000000
+      internalID: 2660277840363352317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1024
+        width: 250
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426b45dd09dfbb30800000000000000
+      internalID: 4305398422225773125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da02e0351ad0f0bc0800000000000000
+      internalID: -3814815372825190227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f481b1b90bd910800000000000000
+      internalID: 1863093529639973802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f3cfbd7f9e9410800000000000000
+      internalID: 1485800289515861345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 781
+        width: 250
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27c04f334aea6b10800000000000000
+      internalID: 1975648961100302122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cb3642c5e8a0eb0800000000000000
+      internalID: -4752829930337485774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8963cbce3a81462d0800000000000000
+      internalID: -3286474735743125864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992c7009fe223030800000000000000
+      internalID: 3472889909645945232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 250
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67850f0c7ba2f5050800000000000000
+      internalID: 5791394614526105718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 530
+        width: 250
+        height: 218
+      alignment: 9
+      pivot: {x: 0.49698913, y: 0.51406944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f3e0fea5eeb040800000000000000
+      internalID: 4665418803530954419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 526
+        width: 250
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.5230503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163a5bcbc3ed6b70800000000000000
+      internalID: 8894015303556150812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 545
+        width: 250
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdb7e4bb3006830800000000000000
+      internalID: 4062250966898696078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 542
+        width: 250
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49529833, y: 0.5262074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253516e1c1b1a0b50800000000000000
+      internalID: 6560085614801277778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 250
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9da8eb5cd0ff70800000000000000
+      internalID: 9219110724531231521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 282
+        width: 250
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80005cc5c925c5b10800000000000000
+      internalID: 1971541568406224904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 287
+        width: 250
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d66586d51f170c0800000000000000
+      internalID: -4579613962574336729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 280
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f061bf88f36006e0800000000000000
+      internalID: -1873387525772320527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 295
+        width: 250
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13e74c02a41acf0800000000000000
+      internalID: -242831400305282601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 250
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daecbd2a3dabd9c40800000000000000
+      internalID: 5520774136359276205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animationsheetlowres_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 31
+        width: 250
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71151bd7d836d4bd0800000000000000
+      internalID: -2644347946846301929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

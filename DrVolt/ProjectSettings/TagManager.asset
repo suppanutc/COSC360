@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - PlayerRoof
+  - PlayerFloor
+  - Pylon
+  - Trap
+  - MovingPlatform
+  - Enemy
+  - GravityField
+  - CheckPoint
+  - RightWall
+  - LeftWall
+  - Wall
+  - PistonWall
+  - Win
+  - ScientistPosCheck
+  - DoorButton
+  - Collectable
+  - ElectircFloor
+  - DialogueTrigger
+  - MindSwap1
+  - MindSwap2
+  - Scientist
+  - SpeedUp
+  - Vent
+  - Laser
+  - TutorialSound
+  - endPipe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - platform
+  - Trap
+  - Player
+  - Seperator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3810916153
+    locked: 0
+  - name: TrapLayer
+    uniqueID: 721135949
+    locked: 0
+  - name: MenuElements
+    uniqueID: 1969997677
+    locked: 0
